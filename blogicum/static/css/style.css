@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+article {
+  margin-bottom: 20px;
+}
